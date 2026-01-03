@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "白昼きみとドロン",
+  "base_artist": "ポップしなないで",
+  "createdAt": "2026-01-03T06:38:53.938834Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白昼きみとドロン",
+      "artist": "ポップしなないで",
+      "has_synced": false,
+      "path": "select/pl_01_白昼きみとドロン_ポップしなないで.txt"
+    }
+  ]
+}
